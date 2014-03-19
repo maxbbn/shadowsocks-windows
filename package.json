@@ -1,13 +1,12 @@
 {
   "name": "shadowsocks-windows",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "service for shadowsocks",
   "main": "index.js",
   "bin": {
     "sssvc": "./bin/sssvc.js"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "author": "maxbbn <qipbbn@gmail.com>",
   "license": "ISC",
   "dependencies": {
